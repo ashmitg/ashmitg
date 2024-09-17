@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🚀 My Portfolio
 
-<!--
-**ashmitg/ashmitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my portfolio to explore my latest projects, work experience, and achievements:
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://ashmit.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- Programming Languages: Javascript/Typescript, Python, C++
+- Frameworks: Nextjs, React, FastAPI, Tailwind
+
+### 📫 How to reach me:
+
+- Email: [your-email@example.com](mailto:ashmitgupta95@gmail.com)
