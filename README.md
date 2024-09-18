@@ -11,4 +11,4 @@ Check out my portfolio to explore my latest projects, work experience, and achie
 
 ### 📫 How to reach me:
 
-- Email: [your-email@example.com](mailto:ashmitgupta95@gmail.com)
+- Email: [ashmitgupta95@gmail.com](mailto:ashmitgupta95@gmail.com)
